@@ -1,2 +1,2 @@
 # redux-counter-basic
-Basic Redux counture
+Basic Redux counter minus the tool kit.
